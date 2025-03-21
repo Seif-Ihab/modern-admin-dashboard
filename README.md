@@ -16,9 +16,6 @@ This is a **fully responsive dashboard interface** built using **only HTML and C
 - Modern and clean UI style
 - Built with pure HTML & CSS (no JS, no frameworks)
   
-- ## 📁 Folder Structure
-
-- ## 🚀 How to Run
 
 Just open `index.html` in your browser. No setup or installation needed.
 
@@ -40,3 +37,5 @@ Just open `index.html` in your browser. No setup or installation needed.
 ## 📌 Credits
 
 - Design inspired by [Elzero Web School](https://elzero.org)
+
+- demo https://seif-ihab.github.io/modern-admin-dashboard/
